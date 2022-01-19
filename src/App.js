@@ -12,7 +12,7 @@ function App() {
   return (
     <div> 
       <h1>Just a random cat pic (=•́ܫ•̀=)</h1>
-      <img src={catPics} className="center"/>
+      <img src={catPics} />
     </div>
   );
 }
