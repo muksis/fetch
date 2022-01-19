@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It fetches random cat pics from [here](https://thatcopy.pw/catapi/rest/). New pic is shown with every hit of the refresh button. I used useState and useEffect hooks in this project.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It fetches random cat pics from [here](https://thatcopy.pw/catapi/). New pic is shown with every hit of the refresh button. I used useState and useEffect hooks in this project.
 
 
 ## How to run
