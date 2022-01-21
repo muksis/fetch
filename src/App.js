@@ -1,5 +1,6 @@
-import './App.css';
+import React from 'react';
 import {useEffect, useState} from 'react';
+import './App.css';
 
 function App() {
   const [catPics, setCatPics] = useState([]);
